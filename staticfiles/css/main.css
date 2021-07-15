@@ -1,0 +1,32 @@
+body{
+	background-color: lightcoral;
+}
+h1{
+	color: darkblue;
+	text-align: center;
+	text:bold;
+}
+#profile{
+	text-align: center;
+}
+#profilepic{
+	width: 150px;
+	height:150px;
+	border-radius: 70%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+#scoial{
+	width: 50px;
+	height:50px;
+	border-radius: 20%;
+	padding-left: 5px;
+	margin-left: 10px;
+	list-style-type: none;
+	display: inline-block;
+}
+.card card-body{
+	width: 30px;
+	height: 70px;
+}
